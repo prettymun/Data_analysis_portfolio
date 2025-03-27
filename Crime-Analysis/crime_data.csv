@@ -1,0 +1,21 @@
+Crime_ID,Crime_Type,City,Date_Occurred,Suspect_Age,Case_Status
+3001,Robbery,Nairobi,2023-06-01,25,Open
+3002,Assault,Mombasa,2023-06-16,30,Closed
+3003,Burglary,Kisumu,2023-07-01,22,Pending
+3004,Homicide,Nakuru,2023-07-16,40,Under Investigation
+3005,Fraud,Eldoret,2023-07-31,35,Closed
+3006,Robbery,Nairobi,2023-08-15,25,Open
+3007,Assault,Mombasa,2023-08-30,30,Closed
+3008,Burglary,Kisumu,2023-09-14,22,Pending
+3009,Homicide,Nakuru,2023-09-29,40,Under Investigation
+3010,Fraud,Eldoret,2023-10-14,35,Closed
+3011,Robbery,Nairobi,2023-10-29,25,Open
+3012,Assault,Mombasa,2023-11-13,30,Closed
+3013,Burglary,Kisumu,2023-11-28,22,Pending
+3014,Homicide,Nakuru,2023-12-13,40,Under Investigation
+3015,Fraud,Eldoret,2023-12-28,35,Closed
+3016,Robbery,Nairobi,2024-01-12,25,Open
+3017,Assault,Mombasa,2024-01-27,30,Closed
+3018,Burglary,Kisumu,2024-02-11,22,Pending
+3019,Homicide,Nakuru,2024-02-26,40,Under Investigation
+3020,Fraud,Eldoret,2024-03-12,35,Closed
