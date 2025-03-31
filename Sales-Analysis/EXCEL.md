@@ -41,6 +41,24 @@ This report provides key insights into sales performance, product trends, and re
   - Compares total sales performance across different months.
   - **Why it Matters**: Identifies months with high or low sales, useful for strategic planning.
 
+**Summary of findings**
+    - Laptops and Phones are the highest revenue generators.
+    - Keyboards contribute the least to total sales.
+    - Sales appear consistent  with no extreme fluctuations.
+**Business Recommendations**
+✔ Stock Management: Keep sufficient inventory of high-demand products.
+✔ Sales Strategy: Offer discounts or promotions on slow-moving items.
+✔ Future Data Collection: Expand dataset for more reliable trends.
+
+**Limitations**
+    - Dataset is small (16 rows), so trends may not be fully representative.
+    - The analysis does not include profit margins (cost data is missing).
+    - Insights are best used as a preliminary performance overview.
+**
+Final Thoughts:**
+This report provides a quick and clear sales overview using Excel. The insights help understand product sales performance and identify potential growth opportunities.
+
+
 **🔍 Summary**
 This analysis provides a comprehensive view of sales performance, revenue trends, and product contribution. The insights gained can help optimize pricing strategies, improve inventory management, and enhance sales forecasting.
 
