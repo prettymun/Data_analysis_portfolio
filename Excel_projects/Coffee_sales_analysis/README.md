@@ -2,7 +2,7 @@
 
 **Project Overview**
 
-This project simulates a coffee shop dataset and demonstrates advanced Excel data analysis techniques. The dataset is structured across three sheets (Orders, Customers, and Products) with 1000 rows each, representing sales transactions, customer information, and product details.
+This project simulates a coffee shop dataset and demonstrates advanced Excel data analysis techniques. The dataset is structured across three sheets (Orders, Customers, and Products) representing sales transactions, customer information, and product details.
 
 The primary goal of this project is to clean, transform, and analyze raw transactional data using Excel functions, pivot tables, and dashboards to generate meaningful insights into sales performance, customer behavior, and product trends.
 
