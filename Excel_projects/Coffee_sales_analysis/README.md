@@ -1,5 +1,6 @@
-**Coffee Shop Sales Analysis – Excel Project
-📌 Project Overview**
+**Coffee Shop Sales Analysis – Excel Project**
+
+**Project Overview**
 
 This project simulates a coffee shop dataset and demonstrates advanced Excel data analysis techniques. The dataset is structured across three sheets (Orders, Customers, and Products) with 1000 rows each, representing sales transactions, customer information, and product details.
 
