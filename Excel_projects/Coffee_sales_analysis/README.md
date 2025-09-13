@@ -60,7 +60,7 @@ Dashboard design for business decision-making
 **
 📂 Files Included**
 
-Coffee_Shop_Data.xlsx – Raw dataset (Orders, Customers, Products).
+Coffee_Shop_Data_.xlsx – Raw dataset (Orders, Customers, Products).
 Coffee_Shop_Analysis.xlsx – Cleaned and analyzed version with pivot tables and dashboard.
 README.md – Project description and documentation.
 
