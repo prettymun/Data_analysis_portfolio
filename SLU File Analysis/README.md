@@ -52,6 +52,10 @@ The Random Forest model achieved a **0.88 ROC-AUC score**, indicating highly rel
 * **Context:** Students complete high-stakes applications when they are free from other commitments.
 * **Action:** Shift 30% of support and manual review capacity to a Friday–Sunday schedule.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prettymun/Data_analysis_portfolio/main/SLU%20File%20Analysis/Weekend%20warrior.png" width="700" />
+</p>
+
 ### 🟡 Recommendation 3: The STEM-Internship Fast-Track
 * **The Profile:** The "Gold Standard" applicant is aged 21–25, within the STEM Major Cluster, applying for an Internship.
 * **The Data:** Internship applicants show a 33% higher retention rate.
