@@ -27,6 +27,7 @@ Random Forest: Selected as the final model due to its "committee of experts" log
 
 Model Performance: The Random Forest model achieved a 0.88 ROC-AUC score, indicating highly reliable and steady predictive power.
 ![ROC](https://github.com/prettymun/Data_analysis_portfolio/blob/93bd3e6c5141cee6a1b48ced8d8e29e03d4a2135/SLU%20File%20Analysis/ROC%20Curve.png)
+![Model Performance Comparison](https://github.com/prettymun/Data_analysis_portfolio/blob/main/SLU%20File%20Analysis/Model%20Performance%20Comparison.png)
 
 
 **💡 Key Strategic Insights**
