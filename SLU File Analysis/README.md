@@ -45,7 +45,7 @@ The Random Forest model achieved a **0.88 ROC-AUC score**, indicating highly rel
 
 | The Golden Window Funnel | Success Rate Vs Application Lag (Days) |
 | :---: | :---: |
-| ![Funnel Diagram](https://raw.githubusercontent.com/prettymun/Data_analysis_portfolio/main/SLU%20File%20Analysis/Funnel%20Diagram.png) | ![Success Vs Churn](https://raw.githubusercontent.com/prettymun/Data_analysis_portfolio/main/SLU%20File%20Analysis/Success%20rate%20vs%20Application%20Lag.png) |
+| ![Funnel Diagram](https://raw.githubusercontent.com/prettymun/Data_analysis_portfolio/main/SLU%20File%20Analysis/Funnel%20Diagram.png) | ![Success Vs Churn](https://raw.githubusercontent.com/prettymun/Data_analysis_portfolio/main/SLU%20File%20Analysis/Visuals/Success%20rate%20vs%20Application%20Lag.png) |
 
 ### 🔵 Recommendation 2: The "Weekend Warrior" Strategy
 * **The Discovery:** Contrary to corporate weekday norms, peak success days are Friday and Sunday.
