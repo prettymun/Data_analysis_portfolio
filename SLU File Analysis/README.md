@@ -82,9 +82,5 @@ The Random Forest model achieved a **0.88 ROC-AUC score**, indicating highly rel
 ### 🔗 Live Interactive Dashboard
 [**Explore the Strategic Insights Dashboard**](https://lookerstudio.google.com/reporting/36766bbb-f66a-4841-ada3-68f82a456c9a)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prettymun/Data_analysis_portfolio/main/SLU%20File%20Analysis/Visuals/Dashboard%20Screenshot.png" width="500" />
-</p>
-
 ### 🔗 Full Report (pdf)
 [**Full report documenting the whole process**](https://drive.google.com/file/d/1IVYCn-oCLTaOWdurMWm38sTr9IHg3fAH/view?usp=sharing)
