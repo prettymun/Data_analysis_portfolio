@@ -53,7 +53,7 @@ The Random Forest model achieved a **0.88 ROC-AUC score**, indicating highly rel
 * **Action:** Shift 30% of support and manual review capacity to a Friday–Sunday schedule.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prettymun/Data_analysis_portfolio/main/SLU%20File%20Analysis/Weekend%20warrior.png" width="700" />
+  <img src="https://raw.githubusercontent.com/prettymun/Data_analysis_portfolio/main/SLU%20File%20Analysis/Weekend%20warrior.png" width="500" />
 </p>
 
 ### 🟡 Recommendation 3: The STEM-Internship Fast-Track
@@ -62,7 +62,7 @@ The Random Forest model achieved a **0.88 ROC-AUC score**, indicating highly rel
 * **Action:** Create an "Express Lane" to move these candidates to "Allocated" status within 48 hours.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prettymun/Data_analysis_portfolio/main/SLU%20File%20Analysis/Top%2010%20drivers%20of%20Success.png" width="700" />
+  <img src="https://raw.githubusercontent.com/prettymun/Data_analysis_portfolio/main/SLU%20File%20Analysis/Top%2010%20drivers%20of%20Success.png" width="500" />
 </p>
 
 ---
