@@ -19,7 +19,7 @@ This project focuses on optimizing the recruitment pipeline for Saint Louis Univ
 Logistic Regression: Provided a baseline but struggled with non-linear student behaviors.
 
 <details> <summary> 
-  ![Logistic Regression Confusion Matrix](Logistic%20Regression.png)
+  ![Logistic Regression Confusion Matrix](https://github.com/prettymun/Data_analysis_portfolio/blob/main/SLU%20File%20Analysis/Logistic%20Regression.png)
 </summary>
 </details>
 
