@@ -18,15 +18,22 @@ This project focuses on optimizing the recruitment pipeline for Saint Louis Univ
 - I conducted a comparative analysis between Logistic Regression and Random Forest Classification.
 Logistic Regression: Provided a baseline but struggled with non-linear student behaviors.
 
-<details> <summary> ![Logistic Regression Confusion Matrix](Logistic%20Regression.png) View Logistic Regression Performance</summary>
+<details> <summary> 
+  ![Logistic Regression Confusion Matrix](Logistic%20Regression.png)
+</summary>
 </details>
 
 Random Forest: Selected as the final model due to its "committee of experts" logic. It achieved a 77.9% Recall, which is critical for ensuring high-potential students aren't missed.
-<details> <summary>  ![Random Forest Confusion Matrix](Random%20Forest.png) View Random Forest Performance</summary>
+<details> <summary>
+  ![Random Forest Confusion Matrix](Random%20Forest.png)
+</summary>
 </details>
 
 Model Performance: The Random Forest model achieved a 0.88 ROC-AUC score, indicating highly reliable and steady predictive power.
-<details> <summary>  ![ROC](ROC%20Curve.png) View ROC Curve</summary>
+<details>
+  <summary>
+    ![ROC](ROC%20Curve.png)
+</summary>
 </details>
 
 **💡 Key Strategic Insights**
