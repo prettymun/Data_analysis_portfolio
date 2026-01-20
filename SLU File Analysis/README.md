@@ -1,6 +1,6 @@
 # SLU Student Opportunity Pipeline: Predictive Analytics & Strategic Insights
 
-**📌 Project Overview** This project focuses on optimizing the recruitment pipeline for Saint Louis University (SLU) by transforming raw candidate data into a predictive engine. I analyzed over 8,300 records to identify behavioral "triggers" that cause students to drop out (churn) and built a model to forecast successful student allocations with 81.6% accuracy.
+**📌 Project Overview** This project focuses on optimizing the recruitment pipeline for Saint Louis University (SLU) by transforming raw candidate data into a predictive engine. I analyzed over 8,500 records to identify behavioral "triggers" that cause students to drop out (churn) and built a model to forecast successful student allocations with 81.6% accuracy.
 
 **🛠️ Tech Stack**
 * **Data Engineering:** PostgreSQL, Python (Pandas), Excel
@@ -73,6 +73,14 @@ The Random Forest model achieved a **0.88 ROC-AUC score**, indicating highly rel
 * **Future Plan:** Integrating this model directly into the CRM to provide "Live Success Scores" for every new signup.
 
 ---
+### 🔗 Full Dataset
+[**Full Dataset**](https://docs.google.com/spreadsheets/d/1CG5P2Yi4iW5LEX8x_suk3IhltETiqIEdaOkf_81pV7E/edit?usp=sharing)
+
+### 🔗 Modelling Dataset
+[**Full Dataset**](https://docs.google.com/spreadsheets/d/1UGsW0zT8-7kMwzD_DHSSgdI9ruoCaH1cPHj7ct5YK0I/edit?usp=sharing)
 
 ### 🔗 Live Interactive Dashboard
 [**Explore the Strategic Insights Dashboard**](https://lookerstudio.google.com/reporting/36766bbb-f66a-4841-ada3-68f82a456c9a)
+
+### 🔗 Full Report (pdf)
+[**Explore the full Report documenting fully all the work done **](https://drive.google.com/file/d/1IVYCn-oCLTaOWdurMWm38sTr9IHg3fAH/view?usp=sharing)
