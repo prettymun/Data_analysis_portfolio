@@ -43,9 +43,9 @@ The Random Forest model achieved a **0.88 ROC-AUC score**, indicating highly rel
 * **The Data:** Successful candidates exhibit a "High-Velocity" signature, typically applying within Day 0.
 * **Action:** Implement an automated SMS/Email nudge for students who have not applied within 12 hours of signup.
 
+| The Golden Window Funnel | Success Rate Vs Application Lag (Days) |
 | :---: | :---: |
 | ![Funnel Diagram](https://raw.githubusercontent.com/prettymun/Data_analysis_portfolio/main/SLU%20File%20Analysis/Funnel%20Diagram.png) | ![Success Vs Churn](https://raw.githubusercontent.com/prettymun/Data_analysis_portfolio/main/SLU%20File%20Analysis/Success%20rate%20vs%20Application%20Lag.png) |
-| *The Golden Window Funnel.* | *Success Rate Vs Application Lag(Days)* |
 
 ### 🔵 Recommendation 2: The "Weekend Warrior" Strategy
 * **The Discovery:** Contrary to corporate weekday norms, peak success days are Friday and Sunday.
