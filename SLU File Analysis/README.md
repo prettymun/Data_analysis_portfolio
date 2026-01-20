@@ -17,11 +17,9 @@ This project focuses on optimizing the recruitment pipeline for Saint Louis Univ
 2. Machine Learning Modeling
 - I conducted a comparative analysis between Logistic Regression and Random Forest Classification.
 Logistic Regression: Provided a baseline but struggled with non-linear student behaviors.
-
-<details> <summary> 
+ 
   ![Logistic Regression Confusion Matrix]( https://github.com/prettymun/Data_analysis_portfolio/blob/93bd3e6c5141cee6a1b48ced8d8e29e03d4a2135/SLU%20File%20Analysis/Logistic%20Regression.png )
-</summary>
-</details>
+
 
 Random Forest: Selected as the final model due to its "committee of experts" logic. It achieved a 77.9% Recall, which is critical for ensuring high-potential students aren't missed.
 <details> <summary>
