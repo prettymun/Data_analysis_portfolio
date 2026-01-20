@@ -24,14 +24,14 @@ I conducted a comparative analysis between **Logistic Regression** and **Random 
 
 | Logistic Regression (Baseline) | Random Forest (Final Model) |
 | :---: | :---: |
-| ![Logistic Regression](https://raw.githubusercontent.com/prettymun/Data_analysis_portfolio/main/SLU%20File%20Analysis/Logistic%20Regression.png) | ![Random Forest](https://raw.githubusercontent.com/prettymun/Data_analysis_portfolio/main/SLU%20File%20Analysis/Random%20Forest.png) |
+| ![Logistic Regression](https://raw.githubusercontent.com/prettymun/Data_analysis_portfolio/main/SLU%20File%20Analysis/Visuals/Logistic%20Regression.png) | ![Random Forest](https://raw.githubusercontent.com/prettymun/Data_analysis_portfolio/main/SLU%20File%20Analysis/Visuals/Random%20Forest.png) |
 | *Struggled with non-linear behaviors.* | *High Recall (77.9%) - critical for success.* |
 
 #### **Performance Validation**
 The Random Forest model achieved a **0.88 ROC-AUC score**, indicating highly reliable and steady predictive power.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prettymun/Data_analysis_portfolio/main/SLU%20File%20Analysis/ROC%20Curve.png" width="600" />
+  <img src="https://raw.githubusercontent.com/prettymun/Data_analysis_portfolio/main/SLU%20File%20Analysis/Visuals/ROC%20Curve.png" width="600" />
 </p>
 
 ---
@@ -45,7 +45,7 @@ The Random Forest model achieved a **0.88 ROC-AUC score**, indicating highly rel
 
 | The Golden Window Funnel | Success Rate Vs Application Lag (Days) |
 | :---: | :---: |
-| ![Funnel Diagram](https://raw.githubusercontent.com/prettymun/Data_analysis_portfolio/main/SLU%20File%20Analysis/Funnel%20Diagram.png) | ![Success Vs Churn](https://raw.githubusercontent.com/prettymun/Data_analysis_portfolio/main/SLU%20File%20Analysis/Visuals/Success%20rate%20vs%20Application%20Lag.png) |
+| ![Funnel Diagram](https://raw.githubusercontent.com/prettymun/Data_analysis_portfolio/main/SLU%20File%20Analysis/Visuals/Funnel%20Diagram.png) | ![Success Vs Churn](https://raw.githubusercontent.com/prettymun/Data_analysis_portfolio/main/SLU%20File%20Analysis/Visuals/Success%20rate%20vs%20Application%20Lag.png) |
 
 ### 🔵 Recommendation 2: The "Weekend Warrior" Strategy
 * **The Discovery:** Contrary to corporate weekday norms, peak success days are Friday and Sunday.
@@ -53,7 +53,7 @@ The Random Forest model achieved a **0.88 ROC-AUC score**, indicating highly rel
 * **Action:** Shift 30% of support and manual review capacity to a Friday–Sunday schedule.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prettymun/Data_analysis_portfolio/main/SLU%20File%20Analysis/Weekend%20warrior.png" width="500" />
+  <img src="https://raw.githubusercontent.com/prettymun/Data_analysis_portfolio/main/SLU%20File%20Analysis/Visuals/Weekend%20warrior.png" width="500" />
 </p>
 
 ### 🟡 Recommendation 3: The STEM-Internship Fast-Track
@@ -62,7 +62,7 @@ The Random Forest model achieved a **0.88 ROC-AUC score**, indicating highly rel
 * **Action:** Create an "Express Lane" to move these candidates to "Allocated" status within 48 hours.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prettymun/Data_analysis_portfolio/main/SLU%20File%20Analysis/Top%2010%20drivers%20of%20Success.png" width="500" />
+  <img src="https://raw.githubusercontent.com/prettymun/Data_analysis_portfolio/main/SLU%20File%20Analysis/Visuals/Top%2010%20drivers%20of%20Success.png" width="500" />
 </p>
 
 ---
@@ -81,6 +81,10 @@ The Random Forest model achieved a **0.88 ROC-AUC score**, indicating highly rel
 
 ### 🔗 Live Interactive Dashboard
 [**Explore the Strategic Insights Dashboard**](https://lookerstudio.google.com/reporting/36766bbb-f66a-4841-ada3-68f82a456c9a)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prettymun/Data_analysis_portfolio/main/SLU%20File%20Analysis/Visuals/Dashboard%20Screenshot.png" width="500" />
+</p>
 
 ### 🔗 Full Report (pdf)
 [**Full report documenting the whole process**](https://drive.google.com/file/d/1IVYCn-oCLTaOWdurMWm38sTr9IHg3fAH/view?usp=sharing)
