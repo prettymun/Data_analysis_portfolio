@@ -1,0 +1,301 @@
+Order_ID,Date,Customer_Name,Region,Segment,Product_Category,Revenue,Discount_Percent,Lead_Source,Last_Engagement_Days,Cost,Customer_Satisfaction_Score,Customer_Type,Quantity,Profit
+ORD-1000,2025-01-01,James Oliver,APAC,Enterprise,Services,20891,0.2,Cold Call,11,6482.994619,8,Returning,3,14408.00538
+ORD-1001,2025-01-02,Emma Charlotte,LATAM,SMB,Hardware,7456,0.05,Cold Call,72,2639.919941,3,New,4,4816.080059
+ORD-1002,2025-01-03,Liam William,North America,Public Sector,Hardware,5212,0.15,LinkedIn,78,3571.502385,3,New,3,1640.497615
+ORD-1003,2025-01-04,Olivia Amelia,LATAM,SMB,Software,14224,0.1,LinkedIn,74,7393.803247,3,New,4,6830.196753
+ORD-1004,2025-01-05,Noah Benjamin,APAC,Enterprise,Hardware,8970,0.05,Cold Call,66,6156.369914,4,New,4,2813.630086
+ORD-1005,2025-01-07,Sophia Isabella,North America,SMB,Hardware,17920,0.1,Social Media,46,8476.144792,7,New,2,9443.855208
+ORD-1006,2025-01-08,Lucas Henry,LATAM,Enterprise,Services,2625,0.05,Social Media,9,1114.90694,10,Returning,2,1510.09306
+ORD-1007,2025-01-09,Mia Evelyn,LATAM,SMB,Services,11314,0,Email Campaign,3,5684.795614,10,Returning,3,5629.204386
+ORD-1008,2025-01-10,Theodore Sebastian,APAC,Public Sector,Services,8973,0.1,Referral,85,4269.395353,2,New,5,4703.604647
+ORD-1009,2025-01-11,Harper Scarlett,North America,SMB,Services,9577,0.15,Social Media,26,3277.880272,8,Returning,5,6299.119728
+ORD-1010,2025-01-13,Jack Alexander,APAC,SMB,Services,9070,0.15,LinkedIn,72,5045.91787,3,New,5,4024.08213
+ORD-1011,2025-01-14,Grace Chloe,North America,Enterprise,Services,9666,0.2,Social Media,48,3735.090029,7,New,1,5930.909971
+ORD-1012,2025-01-15,Owen Samuel,MEA,Enterprise,Hardware,23874,0.05,Email Campaign,66,13079.01713,4,New,2,10794.98287
+ORD-1013,2025-01-16,Aria Victoria,Europe,Enterprise,Services,4600,0.1,Email Campaign,70,2576.37001,2,New,4,2023.62999
+ORD-1014,2025-01-17,Mason Levi,Europe,SMB,Services,7783,0.2,Referral,28,2808.183773,7,Returning,2,4974.816227
+ORD-1015,2025-01-19,Eleanor Lily,Europe,Public Sector,Software,14226,0.1,Social Media,26,4616.903918,8,Returning,5,9609.096082
+ORD-1016,2025-01-20,Ethan Daniel,APAC,Enterprise,Hardware,10146,0.05,LinkedIn,25,6212.442821,7,Returning,5,3933.557179
+ORD-1017,2025-01-21,Luna Stella,MEA,Enterprise,Hardware,5971,0.15,LinkedIn,12,2889.487332,8,Returning,5,3081.512668
+ORD-1018,2025-01-22,Leo Gabriel,North America,SMB,Hardware,14490,0,Cold Call,5,4684.117359,10,Returning,4,9805.882641
+ORD-1019,2025-01-23,Maya Willow,LATAM,Enterprise,Services,18589,0.15,LinkedIn,48,12974.12799,6,New,2,5614.872012
+ORD-1020,2025-01-25,Asher Isaac,North America,Public Sector,Services,13951,0.2,Referral,37,4507.738643,7,New,2,9443.261357
+ORD-1021,2025-01-26,Hannah Zoey,LATAM,Public Sector,Services,13312,0,Referral,79,7694.523587,4,New,2,5617.476413
+ORD-1022,2025-01-27,Caleb Miles,North America,Enterprise,Software,2990,0.2,LinkedIn,44,2073.479995,5,New,2,916.5200054
+ORD-1023,2025-01-28,Mila Addison,MEA,Enterprise,Services,6299,0.05,LinkedIn,15,2492.338191,8,Returning,1,3806.661809
+ORD-1024,2025-01-29,Thomas Josiah,LATAM,SMB,Software,13997,0,Cold Call,43,4995.525765,6,New,2,9001.474235
+ORD-1025,2025-01-31,Natalie Elizabeth,APAC,Public Sector,Hardware,20956,0.2,LinkedIn,48,7304.297116,5,New,1,13651.70288
+ORD-1026,2025-02-01,Christian Hunter,North America,Public Sector,Services,23359,0.05,Cold Call,87,9841.381669,3,New,4,13517.61833
+ORD-1027,2025-02-02,Eliana Violet,North America,Enterprise,Software,14472,0.15,Cold Call,70,4926.533991,4,New,3,9545.466009
+ORD-1028,2025-02-03,Ryan Connor,LATAM,SMB,Software,23704,0.05,LinkedIn,46,13673.99698,6,New,2,10030.00302
+ORD-1029,2025-02-04,Elena Naomi,APAC,Public Sector,Services,5380,0.1,Email Campaign,43,1748.05195,7,New,2,3631.94805
+ORD-1030,2025-02-06,Tristan Julian,APAC,Public Sector,Hardware,5757,0.05,Email Campaign,21,2900.197277,9,Returning,3,2856.802723
+ORD-1031,2025-02-07,Penelope Audrey,MEA,SMB,Hardware,20097,0.05,Cold Call,23,14041.34667,8,Returning,5,6055.653331
+ORD-1032,2025-02-08,Silas Bennett,APAC,SMB,Hardware,11395,0.1,LinkedIn,80,7128.576488,3,New,4,4266.423512
+ORD-1033,2025-02-09,Nora Hazel,APAC,Public Sector,Software,17241,0.2,Email Campaign,47,9415.099334,7,New,4,7825.900666
+ORD-1034,2025-02-10,Wyatt Maxwell,APAC,Public Sector,Software,6588,0.2,LinkedIn,15,2783.439541,10,Returning,2,3804.560459
+ORD-1035,2025-02-12,Aurora Savannah,Europe,SMB,Software,18350,0.05,LinkedIn,25,10084.39544,7,Returning,2,8265.604562
+ORD-1036,2025-02-13,Axel Damian,MEA,Public Sector,Software,5944,0.1,LinkedIn,36,3036.293785,7,New,1,2907.706215
+ORD-1037,2025-02-14,Claire Skylar,North America,Enterprise,Hardware,14395,0.1,Social Media,75,6771.888124,3,New,2,7623.111876
+ORD-1038,2025-02-15,Elias Nathaniel,LATAM,Enterprise,Services,20816,0.15,LinkedIn,51,7333.146881,5,New,5,13482.85312
+ORD-1039,2025-02-16,Bella Lucy,North America,SMB,Software,18072,0.2,Social Media,15,11830.68455,8,Returning,1,6241.315449
+ORD-1040,2025-02-18,Rowan Zachary,MEA,SMB,Software,5243,0,Cold Call,68,2516.188366,3,New,4,2726.811634
+ORD-1041,2025-02-19,Ivy Paisley,LATAM,SMB,Hardware,21085,0.2,Email Campaign,21,7966.946265,8,Returning,2,13118.05374
+ORD-1042,2025-02-20,Harrison Tyler,MEA,Enterprise,Services,22566,0.2,Email Campaign,13,10089.343,8,Returning,3,12476.657
+ORD-1043,2025-02-21,Genesis Madelyn,APAC,Public Sector,Services,10916,0.15,Email Campaign,86,5083.056151,2,New,2,5832.943849
+ORD-1044,2025-02-22,Cole Brandon,LATAM,Enterprise,Hardware,24088,0,Email Campaign,19,15199.89313,8,Returning,3,8888.106869
+ORD-1045,2025-02-24,Serenity Autumn,APAC,Public Sector,Hardware,21806,0.15,Email Campaign,34,12940.67807,8,New,5,8865.321927
+ORD-1046,2025-02-25,Elliott Nicholas,North America,Enterprise,Services,10984,0,Email Campaign,78,6675.217981,4,New,5,4308.782019
+ORD-1047,2025-02-26,Quinn Sadie,North America,Public Sector,Software,2759,0.05,Email Campaign,68,839.8741034,4,New,5,1919.125897
+ORD-1048,2025-02-27,Finn George,LATAM,Enterprise,Services,10181,0,Cold Call,52,4749.045542,4,New,1,5431.954458
+ORD-1049,2025-02-28,Piper Ruby,LATAM,SMB,Hardware,3482,0.15,LinkedIn,27,1715.016134,7,Returning,5,1766.983866
+ORD-1050,2025-03-02,Arthur Declan,MEA,Enterprise,Software,1951,0.2,Referral,29,600.2776528,9,Returning,2,1350.722347
+ORD-1051,2025-03-03,Lydia Eva,MEA,Public Sector,Software,3079,0,Social Media,28,1243.685948,9,Returning,4,1835.314052
+ORD-1052,2025-03-04,Milo Jasper,APAC,Enterprise,Hardware,3717,0,Referral,35,2245.498909,6,New,2,1471.501091
+ORD-1053,2025-03-05,Alice Josephine,LATAM,Enterprise,Hardware,21908,0.1,Referral,8,7773.919773,9,Returning,3,14134.08023
+ORD-1054,2025-03-06,Jude Rhett,North America,Enterprise,Hardware,10692,0.2,LinkedIn,16,5497.01437,8,Returning,2,5194.98563
+ORD-1055,2025-03-08,Cora Julia,MEA,SMB,Services,8311,0.05,LinkedIn,36,3208.717103,6,New,1,5102.282897
+ORD-1056,2025-03-09,Beau Emmett,MEA,Enterprise,Services,24570,0.15,LinkedIn,30,7490.122973,6,New,1,17079.87703
+ORD-1057,2025-03-10,Delilah Sophie,North America,SMB,Software,19449,0.05,Email Campaign,18,7711.15086,8,Returning,5,11737.84914
+ORD-1058,2025-03-11,Oscar Griffin,MEA,SMB,Hardware,1768,0.2,Cold Call,2,1220.537919,10,Returning,4,547.4620805
+ORD-1059,2025-03-12,Jade Faith,APAC,Enterprise,Software,6490,0,Email Campaign,49,4027.790342,5,New,5,2462.209658
+ORD-1060,2025-03-14,Parker Graham,LATAM,Enterprise,Software,16534,0,Cold Call,77,11306.45609,4,New,3,5227.543905
+ORD-1061,2025-03-15,Brielle Rose,North America,Enterprise,Software,7645,0.2,Cold Call,4,3785.357666,10,Returning,2,3859.642334
+ORD-1062,2025-03-16,Weston Everett,LATAM,Public Sector,Software,22467,0,Referral,89,7726.27727,1,New,4,14740.72273
+ORD-1063,2025-03-17,Kinsley Hailey,MEA,Enterprise,Hardware,6232,0,Referral,75,3235.553414,4,New,5,2996.446586
+ORD-1064,2025-03-18,Silas Brooks,MEA,SMB,Software,12485,0,Cold Call,7,6014.660409,10,Returning,4,6470.339591
+ORD-1065,2025-03-20,Reagan Brooklynn,North America,Enterprise,Hardware,6797,0.15,Cold Call,74,4334.738037,4,New,1,2462.261963
+ORD-1066,2025-03-21,Hudson Cooper,APAC,Public Sector,Hardware,22310,0.15,Email Campaign,39,7568.288951,6,New,4,14741.71105
+ORD-1067,2025-03-22,Elena Sarah,Europe,Enterprise,Services,23400,0.1,Email Campaign,13,11589.93704,8,Returning,3,11810.06296
+ORD-1068,2025-03-23,Easton Nolan,North America,Public Sector,Hardware,20719,0.05,Referral,31,7459.243314,6,New,3,13259.75669
+ORD-1069,2025-03-24,Clara Vivian,Europe,Public Sector,Services,13342,0.2,LinkedIn,71,5735.330487,2,New,3,7606.669513
+ORD-1070,2025-03-26,Sawyer Bennett,Europe,Enterprise,Hardware,9038,0.2,Cold Call,63,5377.093306,4,New,2,3660.906694
+ORD-1071,2025-03-27,Maria Alice,APAC,SMB,Hardware,17002,0.2,Email Campaign,56,8337.904094,5,New,5,8664.095906
+ORD-1072,2025-03-28,Kayden Braxton,Europe,Public Sector,Hardware,14087,0.1,Referral,42,6344.155309,7,New,4,7742.844691
+ORD-1073,2025-03-29,Taylor Arianna,Europe,Enterprise,Services,5873,0.15,Email Campaign,61,2688.603674,3,New,2,3184.396326
+ORD-1074,2025-03-30,Roman Kingston,APAC,Enterprise,Services,2481,0.1,Cold Call,42,1200.254973,7,New,5,1280.745027
+ORD-1075,2025-04-01,Jade Lyla,Europe,SMB,Software,11093,0.2,Cold Call,56,6811.175408,5,New,1,4281.824592
+ORD-1076,2025-04-02,Charlie Jude,Europe,Public Sector,Services,23689,0.05,Social Media,36,15559.73768,6,New,4,8129.262321
+ORD-1077,2025-04-03,Allison Gabby,Europe,Public Sector,Services,20835,0,LinkedIn,84,14212.25928,1,New,4,6622.740723
+ORD-1078,2025-04-04,Chase Malachi,North America,Enterprise,Services,15422,0.15,Social Media,68,9480.849609,4,New,1,5941.150391
+ORD-1079,2025-04-05,Madeline Adalyn,North America,Enterprise,Services,17438,0.15,Referral,7,7431.426179,10,Returning,1,10006.57382
+ORD-1080,2025-04-07,Lane Beckett,North America,SMB,Software,8643,0.1,Email Campaign,54,4971.919306,5,New,4,3671.080694
+ORD-1081,2025-04-08,Penelope Eliza,APAC,SMB,Services,20846,0.15,Referral,1,9902.70989,10,Returning,1,10943.29011
+ORD-1082,2025-04-09,Jace River,MEA,Public Sector,Hardware,16708,0.2,Cold Call,44,6714.414701,6,New,3,9993.585299
+ORD-1083,2025-04-10,Emery Quinn,Europe,Public Sector,Hardware,12271,0.2,Social Media,45,7808.63406,5,New,1,4462.36594
+ORD-1084,2025-04-11,Xavier Walker,Europe,Enterprise,Services,18216,0.1,Social Media,47,5744.789749,6,New,4,12471.21025
+ORD-1085,2025-04-13,Ariana Katherine,APAC,Public Sector,Services,13600,0.2,Social Media,13,8985.585237,8,Returning,4,4614.414763
+ORD-1086,2025-04-14,Bentley Ryder,Europe,SMB,Hardware,11998,0.05,Referral,22,5814.122648,7,Returning,2,6183.877352
+ORD-1087,2025-04-15,Eloise Mackenzie,North America,SMB,Hardware,23338,0.1,Cold Call,21,12949.80323,8,Returning,4,10388.19677
+ORD-1088,2025-04-16,Rowan Maddox,MEA,Enterprise,Software,15295,0.05,Email Campaign,86,8622.427296,2,New,5,6672.572704
+ORD-1089,2025-04-17,Callie Reese,LATAM,SMB,Hardware,11682,0,Email Campaign,9,7687.306179,9,Returning,1,3994.693821
+ORD-1090,2025-04-19,Felix Grant,Europe,SMB,Hardware,17380,0.05,Referral,26,9640.12763,8,Returning,3,7739.87237
+ORD-1091,2025-04-20,Iris Holly,North America,SMB,Services,9519,0,Social Media,9,5193.313517,10,Returning,1,4325.686483
+ORD-1092,2025-04-21,Louis Holden,LATAM,SMB,Hardware,24605,0,LinkedIn,15,8037.489383,9,Returning,4,16567.51062
+ORD-1093,2025-04-22,Georgia Fiona,MEA,Enterprise,Software,20694,0.05,Referral,10,10499.37424,10,Returning,2,10194.62576
+ORD-1094,2025-04-23,Simon Rhett,LATAM,Enterprise,Hardware,4300,0.1,Referral,88,1548.290681,1,New,5,2751.709319
+ORD-1095,2025-04-25,Mabel Genevieve,North America,Public Sector,Services,7722,0.2,Cold Call,42,4594.385425,7,New,1,3127.614575
+ORD-1096,2025-04-26,Arlo Colin,LATAM,SMB,Services,8218,0.2,Email Campaign,72,4149.175898,3,New,5,4068.824102
+ORD-1097,2025-04-27,Adeline June,APAC,Public Sector,Hardware,21059,0,Referral,24,12047.66672,9,Returning,4,9011.333279
+ORD-1098,2025-04-28,Victor Barrett,LATAM,Enterprise,Services,4054,0,Referral,80,1283.776776,2,New,3,2770.223224
+ORD-1099,2025-04-29,Hope Beatrice,Europe,Enterprise,Software,14575,0.1,Social Media,49,4866.837454,7,New,5,9708.162546
+ORD-1100,2025-05-01,Tobias Marcus,Europe,Enterprise,Software,8970,0.15,Social Media,26,5261.168316,8,Returning,5,3708.831684
+ORD-1101,2025-05-02,Phoebe Diana,APAC,Enterprise,Hardware,3143,0.05,LinkedIn,37,1033.524427,8,New,4,2109.475573
+ORD-1102,2025-05-03,Patrick Preston,North America,Enterprise,Hardware,22591,0,Cold Call,68,7421.204295,5,New,4,15169.79571
+ORD-1103,2025-05-04,Valerie Margaret,Europe,Enterprise,Hardware,10503,0.2,LinkedIn,50,3201.770126,6,New,5,7301.229874
+ORD-1104,2025-05-05,Gideon Spencer,MEA,Enterprise,Services,16149,0.1,Social Media,24,11023.31643,7,Returning,3,5125.683568
+ORD-1105,2025-05-07,Catherine Daphne,Europe,SMB,Software,19922,0.05,Email Campaign,19,11853.65661,10,Returning,3,8068.343385
+ORD-1106,2025-05-08,Dante Anderson,Europe,Public Sector,Software,13175,0.1,Social Media,60,5814.134923,3,New,4,7360.865077
+ORD-1107,2025-05-09,Elsie Noelle,North America,Enterprise,Services,21931,0.05,Cold Call,39,9180.628733,7,New,5,12750.37127
+ORD-1108,2025-05-10,Reid Seth,LATAM,SMB,Software,23003,0.05,Social Media,74,10118.58936,4,New,3,12884.41064
+ORD-1109,2025-05-11,Tessa Camille,Europe,SMB,Hardware,9356,0,Cold Call,89,5705.863375,2,New,1,3650.136625
+ORD-1110,2025-05-13,Rafael Garrett,APAC,Public Sector,Hardware,23996,0.1,Cold Call,18,13546.89967,9,Returning,2,10449.10033
+ORD-1111,2025-05-14,Ruth Miriam,LATAM,Enterprise,Hardware,22389,0.1,Cold Call,19,8375.237428,10,Returning,5,14013.76257
+ORD-1112,2025-05-15,Leon Archer,MEA,Public Sector,Software,16070,0.2,Cold Call,36,5940.174808,6,New,1,10129.82519
+ORD-1113,2025-05-16,Rosemary Felicity,North America,Enterprise,Hardware,1822,0.2,Cold Call,74,618.3107495,4,New,3,1203.68925
+ORD-1114,2025-05-17,Dalton Trevor,MEA,SMB,Services,18327,0,Email Campaign,55,10338.64718,5,New,1,7988.352822
+ORD-1115,2025-05-19,Vera Monica,LATAM,SMB,Services,15289,0,LinkedIn,69,9261.297453,4,New,3,6027.702547
+ORD-1116,2025-05-20,Shawn Shane,LATAM,SMB,Software,7150,0.15,Referral,47,2903.032785,7,New,5,4246.967215
+ORD-1117,2025-05-21,Pearl Mariah,LATAM,SMB,Services,5425,0.2,LinkedIn,49,1672.950565,5,New,5,3752.049435
+ORD-1118,2025-05-22,Devin Jared,MEA,Public Sector,Services,17032,0.05,Cold Call,33,5669.419136,6,New,2,11362.58086
+ORD-1119,2025-05-23,Joy Paige,LATAM,Enterprise,Software,3198,0.1,Email Campaign,21,2197.486557,8,Returning,1,1000.513443
+ORD-1120,2025-05-25,Abraham Cyrus,MEA,Enterprise,Hardware,21626,0,Social Media,81,9043.515503,2,New,1,12582.4845
+ORD-1121,2025-05-26,Megan Jenna,LATAM,Public Sector,Hardware,21079,0.1,Email Campaign,22,12809.48189,7,Returning,1,8269.518107
+ORD-1122,2025-05-27,Silas Felix,APAC,Enterprise,Hardware,4452,0.1,Cold Call,48,2448.000883,7,New,2,2003.999117
+ORD-1123,2025-05-28,Laura Amber,LATAM,SMB,Software,10106,0.15,Email Campaign,37,4575.752799,7,New,3,5530.247201
+ORD-1124,2025-05-29,Cody Justin,MEA,Enterprise,Services,14859,0.2,Email Campaign,15,5680.222812,8,Returning,1,9178.777188
+ORD-1125,2025-05-31,Molly Georgia,Europe,SMB,Hardware,18692,0,Cold Call,35,6515.181971,7,New,2,12176.81803
+ORD-1126,2025-06-01,Jensen Bradley,LATAM,Public Sector,Hardware,21561,0.1,Email Campaign,71,11772.41784,4,New,2,9788.582158
+ORD-1127,2025-06-02,Daisy Shelby,Europe,Enterprise,Software,9705,0,Referral,32,5918.628336,6,New,4,3786.371664
+ORD-1128,2025-06-03,Paul Timothy,APAC,Public Sector,Hardware,11112,0.05,Referral,11,6195.625626,9,Returning,4,4916.374374
+ORD-1129,2025-06-04,Nicole Chelsea,North America,Enterprise,Software,24236,0.15,Email Campaign,10,12411.761,10,Returning,3,11824.239
+ORD-1130,2025-06-06,Calvin Peter,APAC,SMB,Services,23419,0.05,Social Media,73,7418.682281,3,New,4,16000.31772
+ORD-1131,2025-06-07,Phoebe Leslie,LATAM,Public Sector,Software,20978,0,Cold Call,78,14420.18303,4,New,3,6557.816969
+ORD-1132,2025-06-08,Gregory Stephen,Europe,Enterprise,Software,5841,0,Referral,77,3618.415837,4,New,4,2222.584163
+ORD-1133,2025-06-09,Bridget Jillian,Europe,SMB,Software,16358,0.2,Social Media,57,6823.393151,4,New,4,9534.606849
+ORD-1134,2025-06-10,Mark Edward,MEA,Public Sector,Software,2409,0.1,Email Campaign,25,1666.999409,9,Returning,3,742.0005906
+ORD-1135,2025-06-12,Brooke Vanessa,Europe,Public Sector,Services,5566,0.1,Social Media,2,3009.829171,10,Returning,1,2556.170829
+ORD-1136,2025-06-13,Jesse Travis,MEA,Enterprise,Services,12382,0.05,LinkedIn,64,6599.222942,5,New,4,5782.777058
+ORD-1137,2025-06-14,Alicia Kayla,North America,Enterprise,Hardware,21875,0.15,Referral,35,13108.14032,8,New,4,8766.85968
+ORD-1138,2025-06-15,Kenneth Richard,LATAM,Enterprise,Services,18939,0.1,Email Campaign,7,11831.34321,9,Returning,3,7107.656793
+ORD-1139,2025-06-16,Alyssa Sabrina,MEA,SMB,Services,15596,0.2,Cold Call,85,8774.176144,3,New,5,6821.823856
+ORD-1140,2025-06-18,Derek Victor,North America,Enterprise,Hardware,1804,0.05,Email Campaign,18,633.6338906,10,Returning,2,1170.366109
+ORD-1141,2025-06-19,Bethany Heidi,Europe,Public Sector,Services,14221,0.05,Cold Call,67,6190.500881,4,New,2,8030.499119
+ORD-1142,2025-06-20,Jeremy Jeffrey,Europe,Public Sector,Software,2279,0.2,Email Campaign,42,1529.741047,5,New,4,749.2589535
+ORD-1143,2025-06-21,Samantha Lauren,North America,Enterprise,Software,14192,0.15,Social Media,39,5532.697905,6,New,4,8659.302095
+ORD-1144,2025-06-22,Marcus Simon,Europe,Enterprise,Hardware,8083,0.2,Social Media,41,3628.190421,5,New,4,4454.809579
+ORD-1145,2025-06-24,Erika Courtney,North America,Public Sector,Hardware,23370,0.15,Social Media,75,11050.0547,4,New,5,12319.9453
+ORD-1146,2025-06-25,Corey Kyle,MEA,SMB,Hardware,23003,0.2,LinkedIn,24,10943.95319,7,Returning,2,12059.04681
+ORD-1147,2025-06-26,Veronica Melanie,MEA,Enterprise,Software,12093,0.2,Cold Call,60,6592.811348,5,New,1,5500.188652
+ORD-1148,2025-06-27,Tanner Brennan,North America,Enterprise,Services,18771,0,Social Media,46,12712.29062,7,New,1,6058.70938
+ORD-1149,2025-06-28,Joanna Rachel,MEA,Public Sector,Software,13880,0.05,LinkedIn,19,5500.325936,9,Returning,3,8379.674064
+ORD-1150,2025-06-30,Lawrence Franklin,MEA,Enterprise,Hardware,16517,0.2,Cold Call,68,5757.835293,4,New,3,10759.16471
+ORD-1151,2025-07-01,Miranda Priscilla,MEA,SMB,Services,20063,0.2,Email Campaign,42,7603.640175,6,New,2,12459.35982
+ORD-1152,2025-07-02,Marshall Pierce,APAC,Public Sector,Services,3106,0.1,LinkedIn,32,2033.715496,7,New,5,1072.284504
+ORD-1153,2025-07-03,Bianca Gwendolyn,LATAM,Enterprise,Software,17086,0.05,Referral,39,9539.529418,7,New,2,7546.470582
+ORD-1154,2025-07-04,Hugo Frederick,Europe,Public Sector,Hardware,21607,0.1,LinkedIn,36,8953.135198,8,New,5,12653.8648
+ORD-1155,2025-07-06,Skye Lexi,APAC,Enterprise,Software,5831,0.05,LinkedIn,36,3652.41464,8,New,1,2178.58536
+ORD-1156,2025-07-07,Russell Warren,MEA,Enterprise,Services,20152,0.1,Cold Call,3,12988.93127,9,Returning,2,7163.068733
+ORD-1157,2025-07-08,Leona Meredith,North America,Enterprise,Software,4186,0.2,Email Campaign,73,2673.203609,4,New,3,1512.796391
+ORD-1158,2025-07-09,Vance Phillip,MEA,SMB,Software,3573,0.2,Referral,8,2385.229802,10,Returning,4,1187.770198
+ORD-1159,2025-07-10,April Kendra,LATAM,SMB,Hardware,13808,0,Social Media,70,5535.577603,3,New,2,8272.422397
+ORD-1160,2025-07-12,Sterling Reed,MEA,Public Sector,Hardware,3599,0.1,Social Media,41,2166.658361,7,New,5,1432.341639
+ORD-1161,2025-07-13,Sylvia Colette,North America,Enterprise,Services,5033,0.15,LinkedIn,68,2437.058116,4,New,3,2595.941884
+ORD-1162,2025-07-14,Solomon Harvey,LATAM,Enterprise,Software,9428,0,Cold Call,13,6003.744943,8,Returning,4,3424.255057
+ORD-1163,2025-07-15,Raven Monica,MEA,SMB,Software,2304,0.1,Cold Call,49,1362.577008,5,New,4,941.4229919
+ORD-1164,2025-07-16,Byron Clayton,LATAM,Enterprise,Software,24752,0.1,Social Media,60,15113.05088,5,New,1,9638.949122
+ORD-1165,2025-07-18,Helen Edith,Europe,SMB,Services,23261,0,Referral,2,13083.4922,9,Returning,2,10177.5078
+ORD-1166,2025-07-19,Lawrence Conrad,Europe,Enterprise,Services,18685,0.2,Email Campaign,60,6931.602623,5,New,1,11753.39738
+ORD-1167,2025-07-20,Cassidy Summer,MEA,Public Sector,Hardware,19925,0.1,Referral,5,10321.36454,9,Returning,4,9603.635456
+ORD-1168,2025-07-21,Otis Grady,LATAM,Enterprise,Hardware,19435,0.2,Email Campaign,44,13485.32256,6,New,4,5949.677445
+ORD-1169,2025-07-22,Esme Matilda,North America,Enterprise,Hardware,24193,0,Social Media,27,16329.1918,8,Returning,5,7863.808203
+ORD-1170,2025-07-24,Nelson Albert,MEA,SMB,Software,9633,0.2,Email Campaign,32,3056.257039,7,New,3,6576.742961
+ORD-1171,2025-07-25,Florence Dorothy,Europe,Enterprise,Software,12372,0.05,Cold Call,21,4527.23556,8,Returning,4,7844.76444
+ORD-1172,2025-07-26,Roland Edgar,Europe,Enterprise,Hardware,9996,0.15,LinkedIn,8,3525.504328,10,Returning,1,6470.495672
+ORD-1173,2025-07-27,Martha Shirley,MEA,SMB,Software,17458,0.1,LinkedIn,72,10307.06291,2,New,5,7150.937093
+ORD-1174,2025-07-28,Mitchell Ross,LATAM,Public Sector,Hardware,24365,0.15,Social Media,50,15279.63582,6,New,2,9085.364175
+ORD-1175,2025-07-30,Blair Winter,Europe,Public Sector,Services,6475,0.2,Cold Call,67,2495.494439,4,New,3,3979.505561
+ORD-1176,2025-07-31,Bruce Wayne,LATAM,SMB,Hardware,8184,0.1,Referral,44,4111.159376,7,New,4,4072.840624
+ORD-1177,2025-08-01,Bonnie Nancy,Europe,SMB,Services,23180,0.2,Cold Call,58,14748.99848,4,New,3,8431.001524
+ORD-1178,2025-08-02,Clifford Stanley,Europe,SMB,Software,24525,0.05,LinkedIn,3,14546.28315,10,Returning,1,9978.716846
+ORD-1179,2025-08-03,Gloria Judith,APAC,SMB,Hardware,13875,0,LinkedIn,86,7171.91649,1,New,1,6703.08351
+ORD-1180,2025-08-05,Quentin Wallace,Europe,SMB,Software,2622,0.1,Cold Call,70,1405.756658,4,New,1,1216.243342
+ORD-1181,2025-08-06,Selina Jolene,North America,Public Sector,Services,16988,0.05,Cold Call,2,8550.811588,9,Returning,2,8437.188412
+ORD-1182,2025-08-07,Jonas Sullivan,MEA,Public Sector,Services,9041,0.05,LinkedIn,87,3788.354219,1,New,3,5252.645781
+ORD-1183,2025-08-08,Tabitha Carmen,MEA,SMB,Services,17725,0.1,Referral,44,9323.505929,6,New,1,8401.494071
+ORD-1184,2025-08-09,Desmond Dexter,LATAM,Enterprise,Software,19458,0.2,Social Media,2,11199.13208,9,Returning,2,8258.867917
+ORD-1185,2025-08-11,Mallory Sierra,Europe,SMB,Software,8992,0.05,Social Media,81,5838.767864,2,New,2,3153.232136
+ORD-1186,2025-08-12,Raymond Alan,North America,Enterprise,Software,16646,0.15,Cold Call,35,9230.482351,7,New,2,7415.517649
+ORD-1187,2025-08-13,Monica Regina,LATAM,SMB,Software,18029,0.05,Social Media,87,10897.60408,2,New,4,7131.395923
+ORD-1188,2025-08-14,Edwin Gerald,APAC,SMB,Services,5263,0.2,LinkedIn,30,1915.882806,8,New,4,3347.117194
+ORD-1189,2025-08-15,Priscilla Daphne,LATAM,Public Sector,Services,15060,0.2,LinkedIn,8,7298.422226,10,Returning,2,7761.577774
+ORD-1190,2025-08-17,Curtis Leonard,LATAM,Enterprise,Hardware,23520,0.15,Cold Call,22,7143.791879,9,Returning,2,16376.20812
+ORD-1191,2025-08-18,Jeanette Loretta,Europe,Enterprise,Hardware,16156,0.05,Cold Call,44,6440.937494,7,New,2,9715.062506
+ORD-1192,2025-08-19,Ronald Douglas,APAC,Public Sector,Software,9646,0.2,Cold Call,58,5696.779882,4,New,1,3949.220118
+ORD-1193,2025-08-20,Rosemary Eileen,LATAM,Public Sector,Services,12664,0.1,Referral,36,8823.31249,6,New,3,3840.68751
+ORD-1194,2025-08-21,Phillip Martin,North America,Public Sector,Services,3969,0,Social Media,69,1348.155151,5,New,2,2620.844849
+ORD-1195,2025-08-23,Joyce Gladys,North America,Public Sector,Services,4028,0,Cold Call,77,1855.287642,2,New,5,2172.712358
+ORD-1196,2025-08-24,Roger Lawrence,MEA,Enterprise,Hardware,20065,0,Email Campaign,31,12440.86959,6,New,4,7624.130405
+ORD-1197,2025-08-25,Beverly Carol,APAC,Enterprise,Hardware,4629,0.05,Email Campaign,47,1766.492381,6,New,1,2862.507619
+ORD-1198,2025-08-26,Walter Arthur,APAC,SMB,Services,21609,0.15,LinkedIn,55,11280.63227,5,New,5,10328.36773
+ORD-1199,2025-08-27,Donna Doris,MEA,SMB,Services,4067,0.2,Social Media,80,2412.660384,2,New,3,1654.339616
+ORD-1200,2025-08-29,Marvin Rodney,LATAM,Public Sector,Services,6941,0.1,Cold Call,62,3792.522004,4,New,4,3148.477996
+ORD-1201,2025-08-30,Janice Pearl,APAC,Public Sector,Hardware,18770,0.1,Email Campaign,30,7042.689707,6,New,3,11727.31029
+ORD-1202,2025-08-31,Glenn Keith,North America,Public Sector,Services,20250,0.05,Social Media,55,8953.615006,6,New,4,11296.38499
+ORD-1203,2025-09-01,Sheila Paula,North America,SMB,Services,22172,0,LinkedIn,16,13602.89258,8,Returning,1,8569.107422
+ORD-1204,2025-09-02,Barry Terry,Europe,SMB,Software,12555,0.05,Referral,12,6549.825554,8,Returning,4,6005.174446
+ORD-1205,2025-09-04,Brenda Wanda,APAC,SMB,Software,22874,0.15,Social Media,17,6910.048872,8,Returning,2,15963.95113
+ORD-1206,2025-09-05,Larry Garry,LATAM,SMB,Hardware,14081,0.15,Social Media,16,8510.504357,9,Returning,3,5570.495643
+ORD-1207,2025-09-06,Martha Shirley,MEA,SMB,Services,21508,0.2,Referral,12,6756.190649,9,Returning,4,14751.80935
+ORD-1208,2025-09-07,Wayne Shane,MEA,SMB,Services,21234,0.2,Social Media,8,12704.16446,10,Returning,2,8529.835543
+ORD-1209,2025-09-08,Tina Gina,LATAM,SMB,Software,22799,0.15,LinkedIn,84,8686.241716,3,New,2,14112.75828
+ORD-1210,2025-09-10,Rudy Wilson,Europe,Public Sector,Hardware,7819,0.15,LinkedIn,3,5342.170616,9,Returning,2,2476.829384
+ORD-1211,2025-09-11,Brenda Linda,MEA,Public Sector,Software,12046,0.15,Referral,16,5386.685716,10,Returning,1,6659.314284
+ORD-1212,2025-09-12,Fletcher Sullivan,APAC,Public Sector,Software,18717,0.05,Cold Call,30,8062.771625,7,New,4,10654.22837
+ORD-1213,2025-09-13,Regina Sonia,Europe,Public Sector,Software,21534,0.15,Email Campaign,23,7742.66211,9,Returning,4,13791.33789
+ORD-1214,2025-09-14,Harvey Leland,APAC,SMB,Software,24150,0.1,Cold Call,5,10197.13672,9,Returning,3,13952.86328
+ORD-1215,2025-09-16,Greta Irene,North America,Enterprise,Services,3711,0,Social Media,84,2414.600391,1,New,1,1296.399609
+ORD-1216,2025-09-17,Clarence Bernard,Europe,SMB,Services,5853,0.15,Email Campaign,65,4088.517951,4,New,2,1764.482049
+ORD-1217,2025-09-18,Louise Maude,MEA,Enterprise,Software,23596,0,Referral,30,10555.05267,7,New,3,13040.94733
+ORD-1218,2025-09-19,Forrest Heath,Europe,Public Sector,Hardware,24863,0.05,Referral,21,11920.42245,9,Returning,4,12942.57755
+ORD-1219,2025-09-20,Adele Estelle,Europe,SMB,Hardware,22792,0,Email Campaign,84,13420.57633,2,New,1,9371.423671
+ORD-1220,2025-09-22,Morgan Taylor,Europe,Public Sector,Hardware,8715,0.05,LinkedIn,70,5703.778491,3,New,2,3011.221509
+ORD-1221,2025-09-23,Roxanne Sheila,Europe,SMB,Hardware,9942,0.1,Email Campaign,22,5341.018708,7,Returning,2,4600.981292
+ORD-1222,2025-09-24,Chandler Joey,APAC,Public Sector,Software,16507,0.05,Social Media,82,7537.26588,2,New,4,8969.73412
+ORD-1223,2025-09-25,Phoebe Monica,North America,Enterprise,Services,16826,0.05,LinkedIn,72,7824.910038,3,New,1,9001.089962
+ORD-1224,2025-09-26,Ross Gunther,LATAM,Enterprise,Hardware,2762,0.2,Referral,32,1597.118928,6,New,2,1164.881072
+ORD-1225,2025-09-28,Janice Ursula,Europe,Enterprise,Software,16850,0.15,Email Campaign,33,5076.691097,6,New,5,11773.3089
+ORD-1226,2025-09-29,Barney Marshall,MEA,SMB,Hardware,13112,0.15,Cold Call,16,7183.222157,10,Returning,3,5928.777843
+ORD-1227,2025-09-30,Robin Lily,Europe,Enterprise,Hardware,24485,0.1,Cold Call,76,10827.19854,3,New,4,13657.80146
+ORD-1228,2025-10-01,Ted Winston,MEA,SMB,Software,13652,0.1,Social Media,38,8432.552787,6,New,2,5219.447213
+ORD-1229,2025-10-02,Cece Schmidt,APAC,Enterprise,Services,7122,0.15,Cold Call,14,2401.511735,10,Returning,5,4720.488265
+ORD-1230,2025-10-04,Nick Winston,MEA,Enterprise,Services,1481,0.2,Email Campaign,36,792.7510229,8,New,1,688.2489771
+ORD-1231,2025-10-05,Jess Aly,LATAM,SMB,Software,15536,0.15,Email Campaign,23,7649.757927,8,Returning,1,7886.242073
+ORD-1232,2025-10-06,Sterling Lana,North America,SMB,Services,1153,0.2,Cold Call,66,642.1405325,4,New,5,510.8594675
+ORD-1233,2025-10-07,Cheryl Cyril,MEA,Enterprise,Software,8617,0.1,Email Campaign,85,2808.637369,3,New,2,5808.362631
+ORD-1234,2025-10-08,Malory Pam,MEA,SMB,Software,2524,0,Social Media,2,1342.751632,9,Returning,3,1181.248368
+ORD-1235,2025-10-10,Krieger Ray,North America,Enterprise,Software,3120,0.1,LinkedIn,73,1636.732766,4,New,2,1483.267234
+ORD-1236,2025-10-11,Jim Dwight,LATAM,SMB,Services,16048,0.1,Social Media,65,8413.389278,4,New,5,7634.610722
+ORD-1237,2025-10-12,Pam Angela,Europe,Public Sector,Software,3343,0.05,Social Media,75,1809.883708,2,New,5,1533.116292
+ORD-1238,2025-10-13,Kevin Oscar,MEA,Public Sector,Hardware,6136,0.05,Email Campaign,67,3501.122905,3,New,4,2634.877095
+ORD-1239,2025-10-14,Kelly Erin,North America,Public Sector,Services,23144,0.05,LinkedIn,52,14395.46616,6,New,4,8748.533837
+ORD-1240,2025-10-16,Stanley Phyllis,APAC,Public Sector,Services,2240,0.05,Email Campaign,62,913.7593652,4,New,1,1326.240635
+ORD-1241,2025-10-17,Meredith Creed,North America,Public Sector,Services,1060,0.2,Referral,23,667.8209499,9,Returning,2,392.1790501
+ORD-1242,2025-10-18,Toby Gabe,APAC,Enterprise,Services,10130,0.15,Email Campaign,26,5057.932025,9,Returning,2,5072.067975
+ORD-1243,2025-10-19,Michael Holly,LATAM,Public Sector,Hardware,19023,0,Email Campaign,68,6293.251858,5,New,2,12729.74814
+ORD-1244,2025-10-20,Andy Darryl,Europe,Public Sector,Services,23569,0.1,Email Campaign,82,7622.694741,1,New,4,15946.30526
+ORD-1245,2025-10-22,Leslie Ron,North America,Public Sector,Services,13312,0.2,LinkedIn,55,5773.352199,4,New,3,7538.647801
+ORD-1246,2025-10-23,April Andy,MEA,Public Sector,Software,14350,0,Email Campaign,6,8810.308649,10,Returning,3,5539.691351
+ORD-1247,2025-10-24,Tom Donna,LATAM,SMB,Services,13418,0.2,LinkedIn,35,7823.665113,7,New,5,5594.334887
+ORD-1248,2025-10-25,Ben Chris,North America,Enterprise,Hardware,2252,0.2,Cold Call,22,1385.98436,9,Returning,4,866.0156398
+ORD-1249,2025-10-26,Ann Jerry,MEA,Public Sector,Hardware,21587,0.1,Referral,43,10942.61485,7,New,5,10644.38515
+ORD-1250,2025-10-28,Harvey Mike,North America,Public Sector,Hardware,9363,0.15,LinkedIn,15,4457.533287,10,Returning,3,4905.466713
+ORD-1251,2025-10-29,Donna Rachel,APAC,Public Sector,Hardware,10650,0.05,Cold Call,86,3823.147764,2,New,4,6826.852236
+ORD-1252,2025-10-30,Louis Jessica,North America,Enterprise,Services,20933,0.15,LinkedIn,60,9027.923565,3,New,3,11905.07644
+ORD-1253,2025-10-31,Katrina Gretchen,North America,SMB,Services,21581,0.1,LinkedIn,12,10220.92878,8,Returning,3,11360.07122
+ORD-1254,2025-11-01,Daniel Samantha,North America,Enterprise,Hardware,24393,0.1,Referral,49,8182.392112,7,New,3,16210.60789
+ORD-1255,2025-11-03,Robert Harold,LATAM,SMB,Hardware,24051,0.1,Social Media,42,9337.67523,7,New,4,14713.32477
+ORD-1256,2025-11-04,Sylvia Myra,North America,Public Sector,Services,19706,0,Social Media,38,10627.25106,8,New,4,9078.748942
+ORD-1257,2025-11-05,Dalton Fletcher,MEA,Public Sector,Hardware,17314,0.15,LinkedIn,82,10289.10846,3,New,3,7024.891536
+ORD-1258,2025-11-06,Poppy Clementine,APAC,Enterprise,Software,5090,0.15,Email Campaign,45,3559.635533,6,New,1,1530.364467
+ORD-1259,2025-11-07,Caspian Alistair,APAC,Enterprise,Hardware,7960,0.2,Cold Call,35,5359.032847,6,New,4,2600.967153
+ORD-1260,2025-11-09,Elodie Seraphina,North America,SMB,Hardware,4004,0.2,Email Campaign,30,2230.332424,8,New,5,1773.667576
+ORD-1261,2025-11-10,Benedict Thaddeus,LATAM,SMB,Software,22520,0.2,Email Campaign,88,10550.60246,2,New,2,11969.39754
+ORD-1262,2025-11-11,Imogen Ottilie,LATAM,Enterprise,Software,17713,0.1,LinkedIn,30,9821.343864,8,New,1,7891.656136
+ORD-1263,2025-11-12,Lysander Leander,MEA,SMB,Services,4640,0.15,LinkedIn,78,2850.169403,4,New,5,1789.830597
+ORD-1264,2025-11-13,Beatrix Isadora,North America,Enterprise,Services,21491,0.1,LinkedIn,6,7464.565232,9,Returning,4,14026.43477
+ORD-1265,2025-11-15,Montgomery Barnaby,APAC,SMB,Software,2341,0,LinkedIn,67,1086.134939,5,New,5,1254.865061
+ORD-1266,2025-11-16,Primrose Lavender,LATAM,Enterprise,Software,12855,0.2,Social Media,80,8174.763353,1,New,1,4680.236647
+ORD-1267,2025-11-17,Wilfred Phineas,North America,Enterprise,Services,1338,0.1,LinkedIn,7,606.8273959,9,Returning,4,731.1726041
+ORD-1268,2025-11-18,Elowen Marigold,LATAM,Enterprise,Hardware,6895,0.1,Social Media,52,3645.723724,4,New,1,3249.276276
+ORD-1269,2025-11-19,Peregrine Callahan,LATAM,SMB,Software,13254,0,Social Media,14,7092.318044,9,Returning,4,6161.681956
+ORD-1270,2025-11-21,Benson Landry,APAC,SMB,Services,20092,0.05,LinkedIn,73,7510.198751,3,New,1,12581.80125
+ORD-1271,2025-11-22,Hollis Tierney,Europe,SMB,Hardware,12344,0.15,Referral,15,5491.773717,8,Returning,3,6852.226283
+ORD-1272,2025-11-23,Jensen Wilder,MEA,Enterprise,Software,2750,0.05,Cold Call,21,1192.962418,9,Returning,4,1557.037582
+ORD-1273,2025-11-24,Lennon Sterling,MEA,SMB,Hardware,22988,0.2,Email Campaign,35,7137.283974,6,New,2,15850.71603
+ORD-1274,2025-11-25,Merritt Vance,APAC,SMB,Services,3421,0.1,Social Media,66,1059.40401,5,New,4,2361.59599
+ORD-1275,2025-11-27,Gable Arden,LATAM,Enterprise,Software,8119,0,Cold Call,2,5136.719319,9,Returning,5,2982.280681
+ORD-1276,2025-11-28,Keaton Mercer,North America,Public Sector,Hardware,6319,0,Referral,35,2585.913779,8,New,4,3733.086221
+ORD-1277,2025-11-29,Sutton Greer,LATAM,Enterprise,Software,16896,0.15,Email Campaign,82,8570.183534,2,New,1,8325.816466
+ORD-1278,2025-11-30,Rhodes Ledger,APAC,SMB,Hardware,23993,0.05,Email Campaign,78,10064.82907,4,New,1,13928.17093
+ORD-1279,2025-12-01,Fallon Channing,MEA,Enterprise,Services,22771,0.15,Social Media,20,15399.38284,7,Returning,5,7371.617164
+ORD-1280,2025-12-03,Miller Smith,LATAM,Public Sector,Services,12918,0.1,LinkedIn,82,5215.238212,2,New,4,7702.761788
+ORD-1281,2025-12-04,Baker Taylor,MEA,Enterprise,Software,21377,0.15,Referral,10,10087.00947,10,Returning,4,11289.99053
+ORD-1282,2025-12-05,Carter Mason,North America,SMB,Hardware,14849,0,Social Media,25,9638.368596,9,Returning,4,5210.631404
+ORD-1283,2025-12-06,Hunter Cooper,MEA,Public Sector,Software,5873,0,Referral,66,3739.770335,5,New,4,2133.229665
+ORD-1284,2025-12-07,Fletcher Tanner,MEA,SMB,Software,5806,0.2,LinkedIn,25,2174.001933,9,Returning,2,3631.998067
+ORD-1285,2025-12-09,Walker Parker,Europe,Public Sector,Hardware,9592,0.2,LinkedIn,54,5957.181851,6,New,3,3634.818149
+ORD-1286,2025-12-10,Sawyer Thatcher,Europe,Public Sector,Hardware,13182,0.1,Social Media,33,6370.527816,7,New,5,6811.472184
+ORD-1287,2025-12-11,Brooks Rivers,Europe,Enterprise,Hardware,23297,0.05,LinkedIn,36,11489.79033,7,New,1,11807.20967
+ORD-1288,2025-12-12,Stone Ridge,MEA,Enterprise,Services,24508,0.15,Cold Call,14,8660.930866,9,Returning,5,15847.06913
+ORD-1289,2025-12-13,Cliff Clay,APAC,SMB,Software,20541,0.1,Email Campaign,65,6824.554278,4,New,4,13716.44572
+ORD-1290,2025-12-15,Ford Lane,MEA,Enterprise,Software,17774,0.2,Social Media,80,10507.5573,1,New,4,7266.442703
+ORD-1291,2025-12-16,Reed Heath,APAC,Enterprise,Services,13045,0.15,Referral,54,6504.034293,5,New,2,6540.965707
+ORD-1292,2025-12-17,Sky Storm,APAC,Public Sector,Hardware,5430,0.2,Cold Call,52,2577.839726,6,New,2,2852.160274
+ORD-1293,2025-12-18,Rain Sunny,Europe,Enterprise,Services,9820,0.15,Social Media,3,5811.508322,10,Returning,1,4008.491678
+ORD-1294,2025-12-19,Blaze Ember,LATAM,Public Sector,Services,5232,0.05,LinkedIn,41,3171.665395,6,New,1,2060.334605
+ORD-1295,2025-12-21,Dawn Eve,North America,Public Sector,Services,12122,0.1,LinkedIn,6,4407.113923,10,Returning,3,7714.886077
+ORD-1296,2025-12-22,Noel Mary,Europe,Public Sector,Software,16023,0.15,LinkedIn,25,8717.955028,8,Returning,4,7305.044972
+ORD-1297,2025-12-23,Christian Faith,Europe,SMB,Services,9007,0,LinkedIn,13,3189.753688,10,Returning,5,5817.246312
+ORD-1298,2025-12-24,David Goliath,LATAM,SMB,Software,18905,0,Referral,8,11353.3984,9,Returning,3,7551.601599
+ORD-1299,2025-12-25,Alpha Omega,North America,SMB,Software,10018,0.15,Cold Call,21,5637.950702,7,Returning,1,4380.049298
