@@ -90,3 +90,14 @@ fact_fintech.to_csv('Fact_Fintech.csv', index=False)
 fact_ops.to_csv('Fact_Operations.csv', index=False)
 
 print("All tables generated with >200 rows and exported successfully!")
+
+#----------------------------------
+# Downloading the files because I used Google Colab
+#----------------------------------
+from google.colab import files
+
+files.download('Dim_Date.csv')
+files.download('Dim_BusinessUnit.csv')
+files.download('Fact_Fintech.csv')
+files.download('Fact_Operations.csv')
+
